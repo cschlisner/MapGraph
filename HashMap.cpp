@@ -38,7 +38,7 @@ void HashMap::insert(string key, string value) {
     if (table[hash] != NULL){
         delete table[hash];
     }
-    cout<<"Inserting "<<key<<":"<<value<<" into map: "<<mapID<<endl;
+    //cout<<"Inserting "<<key<<":"<<value<<" into map: "<<mapID<<endl;
     table[hash] = new AssocData(key, value);           
 }
 

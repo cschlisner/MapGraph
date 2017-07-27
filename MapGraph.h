@@ -23,6 +23,9 @@ class MapGraph {
         // returns first node with the given key and mapID
         Node * getNode(string key, string mapID);
 
+        // returns first node with the given key
+        Node * getFirstNode(string key);
+
         void addNode(string key, HashMap * map);
 
         void addMap(string file);

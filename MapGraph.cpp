@@ -6,7 +6,7 @@ MapGraph::Node::Node(string k, HashMap * m){
 }
 
 void MapGraph::addEdge(Node * n1, Node * n2){
-	cout<<"adding edge between "<<n1->key<<" and "<<n2->key<<endl;
+	// cout<<"adding edge between "<<n1->key<<" and "<<n2->key<<endl;
     n1->adj.push_back(n2);
     n2->adj.push_back(n1);
 }
@@ -14,6 +14,14 @@ void MapGraph::addEdge(Node * n1, Node * n2){
 MapGraph::Node * MapGraph::getNode(string key, string mapID){
     for (int i = 0; i < nodes.size(); ++i){
         if (nodes.at(i)->key == key && nodes.at(i)->map->mapID == mapID)
+            return nodes.at(i);
+    }
+    return NULL;
+}
+
+MapGraph::Node * MapGraph::getFirstNode(string key){
+    for (int i = 0; i < nodes.size(); ++i){
+        if (nodes.at(i)->key == key)
             return nodes.at(i);
     }
     return NULL;
@@ -40,12 +48,13 @@ string MapGraph::getToken(string input, string delim, int n) {
 }
 
 void MapGraph::addMap(string file) {
-	cout<<"Reading file: "<<file<<endl;
+	// cout<<"Reading file: "<<file<<endl;
 	ifstream mapfile(file);
 
 	// map ID is filename
 	string mid = getToken(file, ".", 0);
-	cout<<"Map ID: "<<mid<<endl;
+
+	cout<<"Generated Map: "<<mid<<endl;
 	
 
 	HashMap * map = new HashMap(1000, mid);	
@@ -54,10 +63,10 @@ void MapGraph::addMap(string file) {
 	string line;
 	if (mapfile) {
 		while (getline(mapfile, line)) {
-			string key = getToken(line, ":", 0);
-			string val = getToken(line, ":", 1);
+			string key = getToken(line, "\%", 0);
+			string val = getToken(line, "\%", 1);
 
-			// cout<<"'"<<key<<"' '"<<val<<"'"<<endl;
+			//cout<<"'"<<key<<"' '"<<val<<"'"<<endl;
 
 			map->insert(key, val);
 			

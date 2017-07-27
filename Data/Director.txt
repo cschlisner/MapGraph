@@ -1,0 +1,972 @@
+Avatar%James Cameron%
+Pirates of the Caribbean: At World's End%Gore Verbinski%
+Spectre%Sam Mendes%
+The Dark Knight Rises%Christopher Nolan%
+John Carter%Andrew Stanton%
+Spider-Man 3%Sam Raimi%
+Tangled%Nathan Greno%
+Avengers: Age of Ultron%Joss Whedon%
+Harry Potter and the Half-Blood Prince%David Yates%
+Batman v Superman: Dawn of Justice%Zack Snyder%
+Superman Returns%Bryan Singer%
+Quantum of Solace%Marc Forster%
+Pirates of the Caribbean: Dead Man's Chest%Gore Verbinski%
+The Lone Ranger%Gore Verbinski%
+Man of Steel%Zack Snyder%
+The Chronicles of Narnia: Prince Caspian%Andrew Adamson%
+The Avengers%Joss Whedon%
+Pirates of the Caribbean: On Stranger Tides%Rob Marshall%
+Men in Black 3%Barry Sonnenfeld%
+The Hobbit: The Battle of the Five Armies%Peter Jackson%
+The Amazing Spider-Man%Marc Webb%
+Robin Hood%Ridley Scott%
+The Hobbit: The Desolation of Smaug%Peter Jackson%
+The Golden Compass%Chris Weitz%
+King Kong%Peter Jackson%
+Titanic%James Cameron%
+Captain America: Civil War%Anthony Russo%
+Battleship%Peter Berg%
+Jurassic World%Colin Trevorrow%
+Skyfall%Sam Mendes%
+Spider-Man 2%Sam Raimi%
+Iron Man 3%Shane Black%
+Alice in Wonderland%Tim Burton%
+X-Men: The Last Stand%Brett Ratner%
+Monsters University%Dan Scanlon%
+Transformers: Revenge of the Fallen%Michael Bay%
+Transformers: Age of Extinction%Michael Bay%
+Oz the Great and Powerful%Sam Raimi%
+The Amazing Spider-Man 2%Marc Webb%
+TRON: Legacy%Joseph Kosinski%
+Cars 2%John Lasseter%
+Green Lantern%Martin Campbell%
+Toy Story 3%Lee Unkrich%
+Terminator Salvation%McG%
+Furious 7%James Wan%
+World War Z%Marc Forster%
+X-Men: Days of Future Past%Bryan Singer%
+Star Trek Into Darkness%J.J. Abrams%
+Jack the Giant Slayer%Bryan Singer%
+The Great Gatsby%Baz Luhrmann%
+Prince of Persia: The Sands of Time%Mike Newell%
+Pacific Rim%Guillermo del Toro%
+Transformers: Dark of the Moon%Michael Bay%
+Indiana Jones and the Kingdom of the Crystal Skull%Steven Spielberg%
+The Good Dinosaur%Peter Sohn%
+Brave%Mark Andrews%
+Star Trek Beyond%Justin Lin%
+WALL·E%Andrew Stanton%
+Rush Hour 3%Brett Ratner%
+2012%Roland Emmerich%
+A Christmas Carol%Robert Zemeckis%
+Jupiter Ascending%Lana Wachowski%
+The Legend of Tarzan%David Yates%
+The Chronicles of Narnia: The Lion, the Witch and the Wardrobe%Andrew Adamson%
+X-Men: Apocalypse%Bryan Singer%
+The Dark Knight%Christopher Nolan%
+Up%Pete Docter%
+Monsters vs. Aliens%Rob Letterman%
+Iron Man%Jon Favreau%
+Hugo%Martin Scorsese%
+Wild Wild West%Barry Sonnenfeld%
+The Mummy: Tomb of the Dragon Emperor%Rob Cohen%
+Suicide Squad%David Ayer%
+Evan Almighty%Tom Shadyac%
+Edge of Tomorrow%Doug Liman%
+Waterworld%Kevin Reynolds%
+G.I. Joe: The Rise of Cobra%Stephen Sommers%
+Inside Out%Pete Docter%
+The Jungle Book%Jon Favreau%
+Iron Man 2%Jon Favreau%
+Snow White and the Huntsman%Rupert Sanders%
+Maleficent%Robert Stromberg%
+Dawn of the Planet of the Apes%Matt Reeves%
+The Lovers%Roland JoffÃ©%
+47 Ronin%Carl Rinsch%
+Captain America: The Winter Soldier%Anthony Russo%
+Shrek Forever After%Mike Mitchell%
+Tomorrowland%Brad Bird%
+Big Hero 6%Don Hall%
+Wreck-It Ralph%Rich Moore%
+The Polar Express%Robert Zemeckis%
+Independence Day: Resurgence%Roland Emmerich%
+How to Train Your Dragon%Dean DeBlois%
+Terminator 3: Rise of the Machines%Jonathan Mostow%
+Guardians of the Galaxy%James Gunn%
+Interstellar%Christopher Nolan%
+Inception%Christopher Nolan%
+Godzilla Resurgence%Hideaki Anno%
+The Hobbit: An Unexpected Journey%Peter Jackson%
+The Fast and the Furious%Rob Cohen%
+The Curious Case of Benjamin Button%David Fincher%
+X-Men: First Class%Matthew Vaughn%
+The Hunger Games: Mockingjay - Part 2%Francis Lawrence%
+The Sorcerer's Apprentice%Jon Turteltaub%
+Poseidon%Wolfgang Petersen%
+Alice Through the Looking Glass%James Bobin%
+Shrek the Third%Chris Miller%
+Warcraft%Duncan Jones%
+Terminator Genisys%Alan Taylor%
+The Chronicles of Narnia: The Voyage of the Dawn Treader%Michael Apted%
+Pearl Harbor%Michael Bay%
+Transformers%Michael Bay%
+Alexander%Oliver Stone%
+Harry Potter and the Order of the Phoenix%David Yates%
+Harry Potter and the Goblet of Fire%Mike Newell%
+Hancock%Peter Berg%
+I Am Legend%Francis Lawrence%
+Charlie and the Chocolate Factory%Tim Burton%
+Ratatouille%Brad Bird%
+Batman Begins%Christopher Nolan%
+Madagascar: Escape 2 Africa%Eric Darnell%
+Night at the Museum: Battle of the Smithsonian%Shawn Levy%
+X-Men Origins: Wolverine%Gavin Hood%
+The Matrix Revolutions%Lana Wachowski%
+Frozen%Chris Buck%
+The Matrix Reloaded%Lana Wachowski%
+Thor: The Dark World%Alan Taylor%
+Mad Max: Fury Road%George Miller%
+Angels & Demons%Ron Howard%
+Thor%Kenneth Branagh%
+Bolt%Byron Howard%
+G-Force%Hoyt Yeatman%
+Wrath of the Titans%Jonathan Liebesman%
+Dark Shadows%Tim Burton%
+Mission: Impossible - Rogue Nation%Christopher McQuarrie%
+The Wolfman%Joe Johnston%
+The Legend of Tarzan%David Yates%
+Bee Movie%Steve Hickner%
+Kung Fu Panda 2%Jennifer Yuh Nelson%
+The Last Airbender%M. Night Shyamalan%
+Mission: Impossible III%J.J. Abrams%
+White House Down%Roland Emmerich%
+Mars Needs Moms%Simon Wells%
+Flushed Away%David Bowers%
+Pan%Joe Wright%
+Mr. Peabody & Sherman%Rob Minkoff%
+Troy%Wolfgang Petersen%
+Madagascar 3: Europe's Most Wanted%Eric Darnell%
+Die Another Day%Lee Tamahori%
+Ghostbusters%Paul Feig%
+Armageddon%Michael Bay%
+Men in Black II%Barry Sonnenfeld%
+Beowulf%Robert Zemeckis%
+Kung Fu Panda 3%Alessandro Carloni%
+Mission: Impossible - Ghost Protocol%Brad Bird%
+Rise of the Guardians%Peter Ramsey%
+Fun with Dick and Jane%Dean Parisot%
+The Last Samurai%Edward Zwick%
+Exodus: Gods and Kings%Ridley Scott%
+Star Trek%J.J. Abrams%
+Spider-Man%Sam Raimi%
+How to Train Your Dragon 2%Dean DeBlois%
+Gods of Egypt%Alex Proyas%
+Stealth%Rob Cohen%
+Watchmen%Zack Snyder%
+Lethal Weapon 4%Richard Donner%
+Hulk%Ang Lee%
+G.I. Joe: Retaliation%Jon M. Chu%
+Sahara%Breck Eisner%
+Final Fantasy: The Spirits Within%Hironobu Sakaguchi%
+Captain America: The First Avenger%Joe Johnston%
+The World Is Not Enough%Michael Apted%
+Master and Commander: The Far Side of the World%Peter Weir%
+The Twilight Saga: Breaking Dawn - Part 2%Bill Condon%
+Happy Feet 2%George Miller%
+The Incredible Hulk%Louis Leterrier%
+The BFG%Steven Spielberg%
+The Revenant%Alejandro G. IÃ±Ã¡rritu%
+Turbo%David Soren%
+Rango%Gore Verbinski%
+Penguins of Madagascar%Eric Darnell%
+The Bourne Ultimatum%Paul Greengrass%
+Kung Fu Panda%Mark Osborne%
+Ant-Man%Peyton Reed%
+The Hunger Games: Catching Fire%Francis Lawrence%
+The Twilight Saga: Breaking Dawn - Part 2%Bill Condon%
+Home%Tim Johnson%
+War of the Worlds%Steven Spielberg%
+Bad Boys II%Michael Bay%
+Puss in Boots%Chris Miller%
+Salt%Phillip Noyce%
+Noah%Darren Aronofsky%
+The Adventures of Tintin%Steven Spielberg%
+Harry Potter and the Prisoner of Azkaban%Alfonso CuarÃ³n%
+Australia%Baz Luhrmann%
+After Earth%M. Night Shyamalan%
+Dinosaur%Eric Leighton%
+Harry Potter and the Deathly Hallows: Part II%Matt Birch%
+Night at the Museum: Secret of the Tomb%Shawn Levy%
+Megamind%Tom McGrath%
+Harry Potter and the Sorcerer's Stone%Chris Columbus%
+R.I.P.D.%Robert Schwentke%
+Godzilla Resurgence%Hideaki Anno%
+Pirates of the Caribbean: The Curse of the Black Pearl%Gore Verbinski%
+Harry Potter and the Deathly Hallows: Part I%Matt Birch%
+The Hunger Games: Mockingjay - Part 1%Francis Lawrence%
+The Da Vinci Code%Ron Howard%
+Rio 2%Carlos Saldanha%
+X-Men 2%Bryan Singer%
+Fast Five%Justin Lin%
+Sherlock Holmes: A Game of Shadows%Guy Ritchie%
+Clash of the Titans%Louis Leterrier%
+Total Recall%Paul Verhoeven%
+The 13th Warrior%John McTiernan%
+The Bourne Legacy%Tony Gilroy%
+Batman & Robin%Joel Schumacher%
+How the Grinch Stole Christmas%Ron Howard%
+The Day After Tomorrow%Roland Emmerich%
+Mission: Impossible II%John Woo%
+The Perfect Storm%Wolfgang Petersen%
+Fantastic 4: Rise of the Silver Surfer%Tim Story%
+Life of Pi%Ang Lee%
+Ghost Rider%Mark Steven Johnson%
+Jason Bourne%Paul Greengrass%
+Charlie's Angels: Full Throttle%McG%
+Prometheus%Ridley Scott%
+Stuart Little 2%Rob Minkoff%
+Elysium%Neill Blomkamp%
+The Chronicles of Riddick%David Twohy%
+RoboCop%JosÃ© Padilha%
+Speed Racer%Lana Wachowski%
+How Do You Know%James L. Brooks%
+Knight and Day%James Mangold%
+Oblivion%Joseph Kosinski%
+Star Wars: Episode III - Revenge of the Sith%George Lucas%
+Star Wars: Episode II - Attack of the Clones%George Lucas%
+Monsters, Inc.%Pete Docter%
+The Wolverine%James Mangold%
+Star Wars: Episode I - The Phantom Menace%George Lucas%
+The Croods%Kirk De Micco%
+Asterix at the Olympic Games%FrÃ©dÃ©ric Forestier%
+Windtalkers%John Woo%
+The Huntsman: Winter's War%Cedric Nicolas-Troyan%
+Teenage Mutant Ninja Turtles%Jonathan Liebesman%
+Gravity%Alfonso CuarÃ³n%
+Dante's Peak%Roger Donaldson%
+Teenage Mutant Ninja Turtles: Out of the Shadows%Dave Green%
+Fantastic Four%Josh Trank%
+Night at the Museum%Shawn Levy%
+San Andreas%Brad Peyton%
+Tomorrow Never Dies%Roger Spottiswoode%
+The Patriot%Roland Emmerich%
+Ocean's Twelve%Steven Soderbergh%
+Mr. & Mrs. Smith%Doug Liman%
+Insurgent%Robert Schwentke%
+The Aviator%Martin Scorsese%
+Gulliver's Travels%Rob Letterman%
+The Green Hornet%Michel Gondry%
+300: Rise of an Empire%Noam Murro%
+The Smurfs%Raja Gosnell%
+Home on the Range%Will Finn%
+Allegiant%Robert Schwentke%
+Real Steel%Shawn Levy%
+The Smurfs 2%Raja Gosnell%
+Speed 2: Cruise Control%Jan de Bont%
+Ender's Game%Gavin Hood%
+Live Free or Die Hard%Len Wiseman%
+The Lord of the Rings: The Fellowship of the Ring%Peter Jackson%
+Around the World in 80 Days%Frank Coraci%
+Ali%Michael Mann%
+The Cat in the Hat%Bo Welch%
+I, Robot%Alex Proyas%
+Kingdom of Heaven%Ridley Scott%
+Stuart Little%Rob Minkoff%
+The Princess and the Frog%Ron Clements%
+The Martian%Ridley Scott%
+10,000 B.C.%Christopher Barnard%
+The Island%Michael Bay%
+Town & Country%Peter Chelsom%
+Gone in Sixty Seconds%Dominic Sena%
+Gladiator%Ridley Scott%
+Minority Report%Steven Spielberg%
+Harry Potter and the Chamber of Secrets%Chris Columbus%
+Casino Royale%Martin Campbell%
+Planet of the Apes%Tim Burton%
+Terminator 2: Judgment Day%James Cameron%
+Public Enemies%Michael Mann%
+American Gangster%Ridley Scott%
+True Lies%James Cameron%
+The Taking of Pelham 1 2 3%Tony Scott%
+Little Fockers%Paul Weitz%
+The Other Guys%Adam McKay%
+Eraser%Chuck Russell%
+Django Unchained%Quentin Tarantino%
+The Hunchback of Notre Dame%Gary Trousdale%
+The Emperor's New Groove%Mark Dindal%
+The Expendables 2%Simon West%
+National Treasure%Jon Turteltaub%
+Eragon%Stefen Fangmeier%
+Where the Wild Things Are%Spike Jonze%
+Pan%Joe Wright%
+Epic%Chris Wedge%
+The Tourist%Florian Henckel von Donnersmarck%
+End of Days%Peter Hyams%
+Blood Diamond%Edward Zwick%
+The Wolf of Wall Street%Martin Scorsese%
+Batman Forever%Joel Schumacher%
+Starship Troopers%Paul Verhoeven%
+Cloud Atlas%Tom Tykwer%
+Legend of the Guardians: The Owls of Ga'Hoole%Zack Snyder%
+Catwoman%Pitof%
+Hercules%Brett Ratner%
+Treasure Planet%Ron Clements%
+Land of the Lost%Brad Silberling%
+The Expendables 3%Patrick Hughes%
+Point Break%Ericson Core%
+Son of the Mask%Lawrence Guterman%
+In the Heart of the Sea%Ron Howard%
+The Adventures of Pluto Nash%Ron Underwood%
+Green Zone%Paul Greengrass%
+The Peanuts Movie%Steve Martino%
+The Spanish Prisoner%David Mamet%
+The Mummy Returns%Stephen Sommers%
+Gangs of New York%Martin Scorsese%
+The Flowers of War%Yimou Zhang%
+Surf's Up%Ash Brannon%
+The Stepford Wives%Frank Oz%
+Black Hawk Down%Ridley Scott%
+The Campaign%Jay Roach%
+The Fifth Element%Luc Besson%
+Sex and the City 2%Michael Patrick King%
+The Road to El Dorado%Bibo Bergeron%
+Ice Age: Continental Drift%Steve Martino%
+Cinderella%Kenneth Branagh%
+The Lovely Bones%Peter Jackson%
+Finding Nemo%Andrew Stanton%
+The Lord of the Rings: The Return of the King%Peter Jackson%
+The Lord of the Rings: The Two Towers%Peter Jackson%
+Seventh Son%Sergey Bodrov%
+Lara Croft: Tomb Raider%Simon West%
+Transcendence%Wally Pfister%
+Jurassic Park III%Joe Johnston%
+Rise of the Planet of the Apes%Rupert Wyatt%
+The Spiderwick Chronicles%Mark Waters%
+A Good Day to Die Hard%John Moore%
+The Alamo%John Lee Hancock%
+The Incredibles%Brad Bird%
+Cutthroat Island%Renny Harlin%
+Percy Jackson & the Olympians: The Lightning Thief%Chris Columbus%
+Men in Black%Barry Sonnenfeld%
+Toy Story 2%John Lasseter%
+Unstoppable%Tony Scott%
+Rush Hour 2%Brett Ratner%
+What Lies Beneath%Robert Zemeckis%
+Cloudy with a Chance of Meatballs%Phil Lord%
+Ice Age: Dawn of the Dinosaurs%Carlos Saldanha%
+The Secret Life of Walter Mitty%Ben Stiller%
+Charlie's Angels%McG%
+The Departed%Martin Scorsese%
+Mulan%Tony Bancroft%
+Tropic Thunder%Ben Stiller%
+The Girl with the Dragon Tattoo%David Fincher%
+Die Hard with a Vengeance%John McTiernan%
+Sherlock Holmes%Guy Ritchie%
+Ben-Hur%Timur Bekmambetov%
+Atlantis: The Lost Empire%Gary Trousdale%
+Alvin and the Chipmunks: The Road Chip%Walt Becker%
+Valkyrie%Bryan Singer%
+You Don't Mess with the Zohan%Dennis Dugan%
+Pixels%Chris Columbus%
+A.I. Artificial Intelligence%Steven Spielberg%
+The Haunted Mansion%Rob Minkoff%
+Contact%Robert Zemeckis%
+Hollow Man%Paul Verhoeven%
+The Interpreter%Sydney Pollack%
+Percy Jackson: Sea of Monsters%Thor Freudenthal%
+Lara Croft Tomb Raider: The Cradle of Life%Jan de Bont%
+Now You See Me 2%Jon M. Chu%
+The Saint%Phillip Noyce%
+Spy Game%Tony Scott%
+Mission to Mars%Brian De Palma%
+Rio%Carlos Saldanha%
+Bicentennial Man%Chris Columbus%
+Volcano%Mick Jackson%
+The Devil's Own%Alan J. Pakula%
+K-19: The Widowmaker%Kathryn Bigelow%
+Fantastic Four%Josh Trank%
+Conan the Barbarian%John Milius%
+Cinderella Man%Ron Howard%
+The Nutcracker in 3D%Andrey Konchalovskiy%
+Seabiscuit%Gary Ross%
+Twister%Jan de Bont%
+The Fast and the Furious%Rob Cohen%
+Cast Away%Robert Zemeckis%
+Happy Feet%George Miller%
+The Bourne Supremacy%Paul Greengrass%
+Air Force One%Wolfgang Petersen%
+Ocean's Eleven%Steven Soderbergh%
+The Three Musketeers%Paul W.S. Anderson%
+Hotel Transylvania%Genndy Tartakovsky%
+Enchanted%Kevin Lima%
+Safe House%Daniel Espinosa%
+102 Dalmatians%Kevin Lima%
+Tower Heist%Brett Ratner%
+The Holiday%Nancy Meyers%
+Enemy of the State%Tony Scott%
+It's Complicated%Nancy Meyers%
+Ocean's Thirteen%Steven Soderbergh%
+Open Season%Roger Allers%
+Divergent%Neil Burger%
+Enemy at the Gates%Jean-Jacques Annaud%
+The Rundown%Peter Berg%
+Last Action Hero%John McTiernan%
+Memoirs of a Geisha%Rob Marshall%
+The Fast and the Furious: Tokyo Drift%Justin Lin%
+Arthur Christmas%Sarah Smith%
+Meet Joe Black%Martin Brest%
+Collateral Damage%Andrew Davis%
+All That Jazz%Bob Fosse%
+Mirror Mirror%Tarsem Singh%
+Scott Pilgrim vs. the World%Edgar Wright%
+The Core%Jon Amiel%
+Nutty Professor II: The Klumps%Peter Segal%
+Scooby-Doo%Raja Gosnell%
+Dredd%Pete Travis%
+Click%Frank Coraci%
+Creepshow%George A. Romero%
+Cats & Dogs: The Revenge of Kitty Galore%Brad Peyton%
+Jumper%Doug Liman%
+Hellboy II: The Golden Army%Guillermo del Toro%
+Zodiac%David Fincher%
+The 6th Day%Roger Spottiswoode%
+Bruce Almighty%Tom Shadyac%
+The Expendables%Sylvester Stallone%
+Mission: Impossible%Brian De Palma%
+The Hunger Games%Gary Ross%
+The Hangover Part II%Todd Phillips%
+Batman Returns%Tim Burton%
+Over the Hedge%Tim Johnson%
+Lilo & Stitch%Dean DeBlois%
+Charlotte's Web%Gary Winick%
+Deep Impact%Mimi Leder%
+RED 2%Dean Parisot%
+The Longest Yard%Peter Segal%
+Alvin and the Chipmunks: Chipwrecked%Mike Mitchell%
+Grown Ups 2%Dennis Dugan%
+Get Smart%Peter Segal%
+Something's Gotta Give%Nancy Meyers%
+Shutter Island%Martin Scorsese%
+Four Christmases%Seth Gordon%
+Robots%Chris Wedge%
+Face/Off%John Woo%
+Bedtime Stories%Adam Shankman%
+Road to Perdition%Sam Mendes%
+Just Go with It%Dennis Dugan%
+Con Air%Simon West%
+Eagle Eye%D.J. Caruso%
+Cold Mountain%Anthony Minghella%
+The Book of Eli%Albert Hughes%
+Flubber%Les Mayfield%
+The Haunting%Jan de Bont%
+Space Jam%Joe Pytka%
+The Pink Panther%Shawn Levy%
+The Day the Earth Stood Still%Scott Derrickson%
+Conspiracy Theory%Richard Donner%
+Fury%David Ayer%
+Six Days Seven Nights%Ivan Reitman%
+Yogi Bear%Eric Brevig%
+Spirit: Stallion of the Cimarron%Kelly Asbury%
+Zookeeper%Frank Coraci%
+Lost in Space%Stephen Hopkins%
+The Manchurian Candidate%Jonathan Demme%
+Déjà Vu%Henry Jaglom%
+Hotel Transylvania 2%Genndy Tartakovsky%
+Fantasia 2000%James Algar%
+The Time Machine%Simon Wells%
+Mighty Joe Young%Ron Underwood%
+Swordfish%Dominic Sena%
+The Legend of Zorro%Martin Campbell%
+What Dreams May Come%Vincent Ward%
+Little Nicky%Steven Brill%
+The Brothers Grimm%Terry Gilliam%
+Mars Attacks!%Tim Burton%
+Evolution%Lucile Hadzihalilovic%
+The Edge%Lee Tamahori%
+Surrogates%Jonathan Mostow%
+Thirteen Days%Roger Donaldson%
+Daylight%Rob Cohen%
+Walking with Dinosaurs 3D%Barry Cook%
+Battlefield Earth%Roger Christian%
+Looney Tunes: Back in Action%Joe Dante%
+Nine%Rob Marshall%
+Timeline%Richard Donner%
+The Postman%Kevin Costner%
+Babe: Pig in the City%George Miller%
+The Last Witch Hunter%Breck Eisner%
+Red Planet%Antony Hoffman%
+Arthur and the Invisibles%Luc Besson%
+Oceans%Jacques Perrin%
+A Sound of Thunder%Peter Hyams%
+Pompeii%Paul W.S. Anderson%
+Top Cat Begins%AndrÃ©s Couturier%
+A Beautiful Mind%Ron Howard%
+The Lion King%Roger Allers%
+Journey 2: The Mysterious Island%Brad Peyton%
+Cloudy with a Chance of Meatballs 2%Cody Cameron%
+Red Dragon%Brett Ratner%
+Hidalgo%Joe Johnston%
+Jack and Jill%Dennis Dugan%
+2 Fast 2 Furious%John Singleton%
+The Little Prince%Mark Osborne%
+The Invasion%Oliver Hirschbiegel%
+The Adventures of Rocky & Bullwinkle%Des McAnuff%
+The Secret Life of Pets%Yarrow Cheney%
+The League of Extraordinary Gentlemen%Stephen Norrington%
+Despicable Me 2%Pierre Coffin%
+Independence Day%Roland Emmerich%
+The Lost World: Jurassic Park%Steven Spielberg%
+Madagascar%Eric Darnell%
+Children of Men%Alfonso CuarÃ³n%
+X-Men%Bryan Singer%
+Wanted%Timur Bekmambetov%
+The Rock%Michael Bay%
+Ice Age: The Meltdown%Carlos Saldanha%
+50 First Dates%Peter Segal%
+Hairspray%Adam Shankman%
+Exorcist: The Beginning%Renny Harlin%
+Inspector Gadget%David Kellogg%
+Now You See Me%Louis Leterrier%
+Grown Ups%Dennis Dugan%
+The Terminal%Steven Spielberg%
+Hotel for Dogs%Thor Freudenthal%
+Vertical Limit%Martin Campbell%
+Charlie Wilson's War%Mike Nichols%
+Shark Tale%Bibo Bergeron%
+Dreamgirls%Bill Condon%
+Be Cool%F. Gary Gray%
+Munich%Steven Spielberg%
+Tears of the Sun%Antoine Fuqua%
+Killers%Robert Luketic%
+The Man from U.N.C.L.E.%Guy Ritchie%
+Spanglish%James L. Brooks%
+Monster House%Gil Kenan%
+Bandits%Barry Levinson%
+First Knight%Jerry Zucker%
+Anna and the King%Andy Tennant%
+Immortals%Tarsem Singh%
+Hostage%Florent-Emilio Siri%
+Titan A.E.%Don Bluth%
+Hollywood Homicide%Ron Shelton%
+Soldier%Paul W.S. Anderson%
+Carriers%David Pastor%
+Monkeybone%Henry Selick%
+Flight of the Phoenix%John Moore%
+Unbreakable%M. Night Shyamalan%
+Minions%Kyle Balda%
+Sucker Punch%Zack Snyder%
+Snake Eyes%Brian De Palma%
+Sphere%Barry Levinson%
+The Angry Birds Movie%Clay Kaytis%
+Fool's Gold%Andy Tennant%
+Funny People%Judd Apatow%
+The Kingdom%Peter Berg%
+Talladega Nights: The Ballad of Ricky Bobby%Adam McKay%
+Dr. Dolittle 2%Steve Carr%
+Braveheart%Mel Gibson%
+Jarhead%Sam Mendes%
+The Simpsons Movie%David Silverman%
+The Majestic%Frank Darabont%
+Driven%Renny Harlin%
+Two Brothers%Jean-Jacques Annaud%
+The Village%M. Night Shyamalan%
+Doctor Dolittle%Betty Thomas%
+Signs%M. Night Shyamalan%
+Shrek 2%Andrew Adamson%
+Cars%John Lasseter%
+Runaway Bride%Garry Marshall%
+xXx%Rob Cohen%
+The SpongeBob Movie: Sponge Out of Water%Paul Tibbitt%
+Ransom%Ron Howard%
+Inglourious Basterds%Quentin Tarantino%
+Hook%Steven Spielberg%
+Hercules%Brett Ratner%
+Die Hard 2%Renny Harlin%
+S.W.A.T.%Clark Johnson%
+Vanilla Sky%Cameron Crowe%
+Lady in the Water%M. Night Shyamalan%
+AVP: Alien vs. Predator%Paul W.S. Anderson%
+Alvin and the Chipmunks: The Squeakquel%Betty Thomas%
+We Were Soldiers%Randall Wallace%
+Olympus Has Fallen%Antoine Fuqua%
+Star Trek: Insurrection%Jonathan Frakes%
+Battle Los Angeles%Jonathan Liebesman%
+Big Fish%Tim Burton%
+Wolf%Mike Nichols%
+War Horse%Steven Spielberg%
+The Monuments Men%George Clooney%
+The Abyss%James Cameron%
+Wall Street: Money Never Sleeps%Oliver Stone%
+Dracula Untold%Gary Shore%
+The Siege%Edward Zwick%
+Stardust%Matthew Vaughn%
+Seven Years in Tibet%Jean-Jacques Annaud%
+The Dilemma%Ron Howard%
+Bad Company%Joel Schumacher%
+Doom%Andrzej Bartkowiak%
+I Spy%Betty Thomas%
+Underworld: Awakening%MÃ¥ns MÃ¥rlind%
+Rock of Ages%Adam Shankman%
+Hart's War%Gregory Hoblit%
+Killer Elite%Gary McKendry%
+Rollerball%John McTiernan%
+Ballistic: Ecks vs. Sever%Wych Kaosayananda%
+Hard Rain%Mikael Salomon%
+Osmosis Jones%Bobby Farrelly%
+Legends of Oz: Dorothy's Return%Will Finn%
+Blackhat%Michael Mann%
+Sky Captain and the World of Tomorrow%Kerry Conran%
+Basic Instinct 2%Michael Caton-Jones%
+Escape Plan%Mikael HÃ¥fstrÃ¶m%
+The Legend of Hercules%Renny Harlin%
+The Sum of All Fears%Phil Alden Robinson%
+The Twilight Saga: Eclipse%David Slade%
+The Score%Frank Oz%
+Despicable Me%Pierre Coffin%
+Money Train%Joseph Ruben%
+Ted 2%Seth MacFarlane%
+Agora%Alejandro AmenÃ¡bar%
+Mystery Men%Kinka Usher%
+Hall Pass%Bobby Farrelly%
+The Insider%Michael Mann%
+The Finest Hours%Craig Gillespie%
+Body of Lies%Ridley Scott%
+Dinner for Schmucks%Jay Roach%
+Abraham Lincoln: Vampire Hunter%Timur Bekmambetov%
+Entrapment%Jon Amiel%
+The X Files%Rob Bowman%
+The Last Legion%Doug Lefler%
+Saving Private Ryan%Steven Spielberg%
+Need for Speed%Scott Waugh%
+What Women Want%Nancy Meyers%
+Ice Age%Chris Wedge%
+Dreamcatcher%Lawrence Kasdan%
+Lincoln%Steven Spielberg%
+The Matrix%Lana Wachowski%
+Apollo 13%Ron Howard%
+Total Recall%Paul Verhoeven%
+The Santa Clause 2%Michael Lembeck%
+Les Misérables%Tom Hooper%
+You've Got Mail%Nora Ephron%
+Step Brothers%Adam McKay%
+The Mask of Zorro%Martin Campbell%
+Due Date%Todd Phillips%
+Unbroken%Angelina Jolie Pitt%
+Space Cowboys%Clint Eastwood%
+Cliffhanger%Renny Harlin%
+Broken Arrow%John Woo%
+The Kid%Jon Turteltaub%
+World Trade Center%Oliver Stone%
+Mona Lisa Smile%Mike Newell%
+The Dictator%Larry Charles%
+Eyes Wide Shut%Stanley Kubrick%
+Annie%Will Gluck%
+Focus%Glenn Ficarra%
+This Means War%McG%
+Blade: Trinity%David S. Goyer%
+Red Dawn%John Milius%
+Primary Colors%Mike Nichols%
+Resident Evil: Retribution%Paul W.S. Anderson%
+Death Race%Paul W.S. Anderson%
+The Long Kiss Goodnight%Renny Harlin%
+Proof of Life%Taylor Hackford%
+Zathura: A Space Adventure%Jon Favreau%
+Fight Club%David Fincher%
+We Are Marshall%McG%
+Hudson Hawk%Michael Lehmann%
+Lucky Numbers%Nora Ephron%
+I, Frankenstein%Stuart Beattie%
+Oliver Twist%Roman Polanski%
+Elektra%Rob Bowman%
+Sin City: A Dame to Kill For%Frank Miller%
+Random Hearts%Sydney Pollack%
+Everest%Baltasar KormÃ¡kur%
+Perfume: The Story of a Murderer%Tom Tykwer%
+Austin Powers in Goldmember%Jay Roach%
+Astro Boy%David Bowers%
+Jurassic Park%Steven Spielberg%
+Wyatt Earp%Lawrence Kasdan%
+Clear and Present Danger%Phillip Noyce%
+Dragon Blade%Daniel Lee%
+Littleman%Keenen Ivory Wayans%
+U-571%Jonathan Mostow%
+The American President%Rob Reiner%
+The Love Guru%Marco Schnabel%
+3000 Miles to Graceland%Demian Lichtenstein%
+The Hateful Eight%Quentin Tarantino%
+Blades of Glory%Josh Gordon%
+Hop%Tim Hill%
+300%Zack Snyder%
+Meet the Fockers%Jay Roach%
+Marley & Me%David Frankel%
+The Green Mile%Frank Darabont%
+Wild Hogs%Walt Becker%
+Chicken Little%Mark Dindal%
+Gone Girl%David Fincher%
+The Bourne Identity%Doug Liman%
+GoldenEye%Martin Campbell%
+The General's Daughter%Simon West%
+The Truman Show%Peter Weir%
+The Prince of Egypt%Brenda Chapman%
+Daddy Day Care%Steve Carr%
+2 Guns%Baltasar KormÃ¡kur%
+Cats & Dogs%Lawrence Guterman%
+The Italian Job%F. Gary Gray%
+Two Weeks Notice%Marc Lawrence%
+Antz%Eric Darnell%
+Couples Retreat%Peter Billingsley%
+Days of Thunder%Tony Scott%
+Cheaper by the Dozen 2%Adam Shankman%
+The Scorch Trials%Wes Ball%
+Eat Pray Love%Ryan Murphy%
+The Family Man%Brett Ratner%
+RED%Robert Schwentke%
+Any Given Sunday%Oliver Stone%
+The Horse Whisperer%Robert Redford%
+Collateral%Michael Mann%
+The Scorpion King%Chuck Russell%
+Ladder 49%Jay Russell%
+Jack Reacher%Christopher McQuarrie%
+Deep Blue Sea%Renny Harlin%
+This Is It%Kenny Ortega%
+Contagion%Steven Soderbergh%
+Kangaroo Jack%David McNally%
+Coraline%Henry Selick%
+The Happening%M. Night Shyamalan%
+Man on Fire%Tony Scott%
+The Shaggy Dog%Brian Robbins%
+Starsky & Hutch%Todd Phillips%
+Jingle All the Way%Brian Levant%
+Hellboy%Guillermo del Toro%
+A Civil Action%Steven Zaillian%
+ParaNorman%Chris Butler%
+The Jackal%Michael Caton-Jones%
+Paycheck%John Woo%
+Up Close & Personal%Jon Avnet%
+The Tale of Despereaux%Sam Fell%
+The Tuxedo%Kevin Donovan%
+Under Siege 2: Dark Territory%Geoff Murphy%
+Jack Ryan: Shadow Recruit%Kenneth Branagh%
+Joy%David O. Russell%
+London Has Fallen%Babak Najafi%
+Alien: Resurrection%Jean-Pierre Jeunet%
+Shooter%Antoine Fuqua%
+The Boxtrolls%Graham Annable%
+Practical Magic%Griffin Dunne%
+The Lego Movie%Phil Lord%
+Miss Congeniality 2: Armed and Fabulous%John Pasquin%
+Reign of Fire%Rob Bowman%
+Gangster Squad%Ruben Fleischer%
+Year One%Harold Ramis%
+Invictus%Clint Eastwood%
+State of Play%Kevin Macdonald%
+Duplicity%Tony Gilroy%
+My Favorite Martian%Donald Petrie%
+The Sentinel%Clark Johnson%
+Planet 51%Jorge Blanco%
+Star Trek: Nemesis%Stuart Baird%
+Intolerable Cruelty%Joel Coen%
+Trouble with the Curve%Robert Lorenz%
+Edge of Darkness%Martin Campbell%
+The Relic%Peter Hyams%
+Analyze That%Harold Ramis%
+Righteous Kill%Jon Avnet%
+Mercury Rising%Harold Becker%
+The Soloist%Joe Wright%
+The Legend of Bagger Vance%Robert Redford%
+Almost Famous%Cameron Crowe%
+Garfield 2%Tim Hill%
+xXx: State of the Union%Lee Tamahori%
+Priest%Scott Stewart%
+Sinbad: Legend of the Seven Seas%Patrick Gilmore%
+Event Horizon%Paul W.S. Anderson%
+The Avengers%Joss Whedon%
+Dragonfly%Tom Shadyac%
+The Black Dahlia%Brian De Palma%
+Flyboys%Tony Bill%
+The Last Castle%Rod Lurie%
+Supernova%Walter Hill%
+Winter's Tale%Akiva Goldsman%
+The Mortal Instruments: City of Bones%Harald Zwart%
+Meet Dave%Brian Robbins%
+Dark Water%Walter Salles%
+Edtv%Ron Howard%
+Inkheart%Iain Softley%
+The Spirit%Frank Miller%
+Mortdecai%David Koepp%
+In the Name of the King: A Dungeon Siege Tale%Uwe Boll%
+Beyond Borders%Martin Campbell%
+Xi you ji zhi: Sun Wukong san da Baigu Jing%Pou-Soi Cheang%
+The Great Raid%John Dahl%
+Deadpool%Tim Miller%
+Holy Man%Stephen Herek%
+American Sniper%Clint Eastwood%
+Goosebumps%Rob Letterman%
+Just Like Heaven%Mark Waters%
+The Flintstones in Viva Rock Vegas%Brian Levant%
+Rambo III%Peter MacDonald%
+Leatherheads%George Clooney%
+The Ridiculous 6%Frank Coraci%
+Did You Hear About the Morgans?%Marc Lawrence%
+The Internship%Shawn Levy%
+Resident Evil: Afterlife%Paul W.S. Anderson%
+Red Tails%Anthony Hemingway%
+The Devil's Advocate%Taylor Hackford%
+That's My Boy%Sean Anders%
+DragonHeart%Rob Cohen%
+After the Sunset%Brett Ratner%
+Ghost Rider: Spirit of Vengeance%Mark Neveldine%
+Captain Corelli's Mandolin%John Madden%
+The Pacifier%Adam Shankman%
+Walking Tall%Kevin Bray%
+Forrest Gump%Robert Zemeckis%
+Alvin and the Chipmunks%Tim Hill%
+Meet the Parents%Jay Roach%
+Pocahontas%Mike Gabriel%
+Superman%Richard Donner%
+The Nutty Professor%Tom Shadyac%
+Hitch%Andy Tennant%
+George of the Jungle%Sam Weisman%
+American Wedding%Jesse Dylan%
+Captain Phillips%Paul Greengrass%
+Date Night%Shawn Levy%
+Casper%Brad Silberling%
+The Equalizer%Antoine Fuqua%
+Maid in Manhattan%Wayne Wang%
+Crimson Tide%Tony Scott%
+The Pursuit of Happyness%Gabriele Muccino%
+Flightplan%Robert Schwentke%
+Disclosure%Barry Levinson%
+City of Angels%Brad Silberling%
+Kill Bill: Vol. 1%Quentin Tarantino%
+Bowfinger%Frank Oz%
+Kill Bill: Vol. 2%Quentin Tarantino%
+Tango & Cash%Andrey Konchalovskiy%
+Death Becomes Her%Robert Zemeckis%
+Shanghai Noon%Tom Dey%
+Executive Decision%Stuart Baird%
+Mr. Popper's Penguins%Mark Waters%
+The Forbidden Kingdom%Rob Minkoff%
+Free Birds%Jimmy Hayward%
+Alien 3%David Fincher%
+Evita%Alan Parker%
+Ronin%John Frankenheimer%
+The Ghost and the Darkness%Stephen Hopkins%
+Paddington%Paul King%
+The Watch%Akiva Schaffer%
+The Hunted%William Friedkin%
+Instinct%Jon Turteltaub%
+Stuck on You%Bobby Farrelly%
+Semi-Pro%Kent Alterman%
+The Pirates! Band of Misfits%Peter Lord%
+Changeling%Clint Eastwood%
+Chain Reaction%Andrew Davis%
+The Fan%Tony Scott%
+The Phantom of the Opera%Joel Schumacher%
+Elizabeth: The Golden Age%Shekhar Kapur%
+Æon Flux%Karyn Kusama%
+Gods and Generals%Ron Maxwell%
+Turbulence%Robert Butler%
+Imagine That%Karey Kirkpatrick%
+Muppets Most Wanted%James Bobin%
+Thunderbirds%Jonathan Frakes%
+Burlesque%Steve Antin%
+A Very Long Engagement%Jean-Pierre Jeunet%
+Lolita%Stanley Kubrick%
+Eye See You%Jim Gillespie%
+Blade II%Guillermo del Toro%
+Seven Pounds%Gabriele Muccino%
+Bullet to the Head%Walter Hill%
+The Godfather: Part III%Francis Ford Coppola%
+Elizabethtown%Cameron Crowe%
+You, Me and Dupree%Anthony Russo%
+Superman II%Richard Lester%
+Gigli%Martin Brest%
+All the King's Men%Steven Zaillian%
+Shaft%John Singleton%
+Anastasia%Don Bluth%
+Moulin Rouge!%Baz Luhrmann%
+Domestic Disturbance%Harold Becker%
+Black Mass%Scott Cooper%
+Flags of Our Fathers%Clint Eastwood%
+Law Abiding Citizen%F. Gary Gray%
+Grindhouse%Robert Rodriguez%
+Beloved%Jonathan Demme%
+Lucky You%Curtis Hanson%
+Catch Me If You Can%Steven Spielberg%
+Zero Dark Thirty%Kathryn Bigelow%
+The Break-Up%Peyton Reed%
+Mamma Mia!%Phyllida Lloyd%
+Valentine's Day%Garry Marshall%
+The Dukes of Hazzard%Jay Chandrasekhar%
+The Thin Red Line%Terrence Malick%
+The Change-Up%David Dobkin%
+Man on the Moon%Milos Forman%
+Casino%Martin Scorsese%
+From Paris with Love%Pierre Morel%
+Bulletproof Monk%Paul Hunter%
+Me, Myself & Irene%Bobby Farrelly%
+Barnyard%Steve Oedekerk%
+Deck the Halls%John Whitesell%
+The Twilight Saga: New Moon%Chris Weitz%
+Shrek%Andrew Adamson%
+The Adjustment Bureau%George Nolfi%
+Robin Hood: Prince of Thieves%Kevin Reynolds%
+Jerry Maguire%Cameron Crowe%
+Ted%Seth MacFarlane%
+As Good as It Gets%James L. Brooks%
+Patch Adams%Tom Shadyac%
+Anchorman 2: The Legend Continues%Adam McKay%
+Mr. Deeds%Steven Brill%
+Super 8%J.J. Abrams%
+Erin Brockovich%Steven Soderbergh%
+How to Lose a Guy in 10 Days%Donald Petrie%
+22 Jump Street%Phil Lord%
+Interview with the Vampire: The Vampire Chronicles%Neil Jordan%
+Yes Man%Peyton Reed%
+Central Intelligence%Rawson Marshall Thurber%
+Stepmom%Chris Columbus%
+Daddy's Home%Sean Anders%
+Into the Woods%Rob Marshall%
+Inside Man%Spike Lee%
+Payback%Brian Helgeland%
+Congo%Frank Marshall%
+We Bought a Zoo%Cameron Crowe%
+Knowing%Alex Proyas%
+Failure to Launch%Tom Dey%
+The Ring Two%Hideo Nakata%
+Crazy, Stupid, Love.%Glenn Ficarra%
+Garfield%Peter Hewitt%
+Christmas with the Kranks%Joe Roth%
+Moneyball%Bennett Miller%
+Outbreak%Wolfgang Petersen%
+Non-Stop%Jaume Collet-Serra%
+Race to Witch Mountain%Andy Fickman%
+V for Vendetta%James McTeigue%
+Shanghai Knights%David Dobkin%
+Curious George%Matthew O'Callaghan%
+Herbie Fully Loaded%Angela Robinson%
+Don't Say a Word%Gary Fleder%
+Hansel & Gretel: Witch Hunters%Tommy Wirkola%
+Unfaithful%Adrian Lyne%
+I Am Number Four%D.J. Caruso%
+Syriana%Stephen Gaghan%
+13 Hours%Michael Bay%
+The Book of Life%Jorge R. GutiÃ©rrez%
+Firewall%Richard Loncraine%
+Absolute Power%Clint Eastwood%
+G.I. Jane%Ridley Scott%
+The Game%David Fincher%
+Silent Hill%Christophe Gans%
+The Replacements%Howard Deutch%
+American Reunion%Jon Hurwitz%
+The Negotiator%F. Gary Gray%
+Into the Storm%Steven Quale%
+Beverly Hills Cop III%John Landis%
+Gremlins 2: The New Batch%Joe Dante%
+The Judge%David Dobkin%
+The Peacemaker%Mimi Leder%
+Resident Evil: Apocalypse%Alexander Witt%
+Bridget Jones: The Edge of Reason%Beeban Kidron%
+Out of Time%Carl Franklin%
+On Deadly Ground%Steven Seagal%
